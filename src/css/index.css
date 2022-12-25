@@ -15,4 +15,5 @@
 body {
   font-family: 'Epilogue', sans-serif;
   background-color: #eeeded;
+  overflow-x: hidden;
 }
