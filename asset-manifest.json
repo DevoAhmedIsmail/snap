@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snap/static/css/main.6abe2ae6.css",
+    "main.js": "/snap/static/js/main.018f46ec.js",
+    "static/media/image-hero-desktop.png": "/snap/static/media/image-hero-desktop.50cc22fddeb0c072b414.png",
+    "static/media/image-hero-mobile.png": "/snap/static/media/image-hero-mobile.adefc8b1bbed2ca80470.png",
+    "index.html": "/snap/index.html",
+    "main.6abe2ae6.css.map": "/snap/static/css/main.6abe2ae6.css.map",
+    "main.018f46ec.js.map": "/snap/static/js/main.018f46ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6abe2ae6.css",
+    "static/js/main.018f46ec.js"
+  ]
+}
